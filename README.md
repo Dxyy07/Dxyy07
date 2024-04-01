@@ -1,14 +1,15 @@
-# Halo semua! 
+# Hello everyone!
 
-Perkenalkan nama saya **M. Septian Adi Cahya**.<br>
+My name is **M. Septian Adi Cahya.** <br>
 
-Saya seorang **Web Developer** di [Dicoding](https://www.dicoding.com/).<br>
+I am a **Web Developer** who is studying at [Dicoding](https://www.dicoding.com/).<br>
 
-Saya merupakan seorang Full-Stack Developer yang sedang menempuh pendidikan S1 Di Universitas Pamulang.<br>
 
-Saya juga memiliki pengalaman belajar di berbagai Bootcamp Diantaranya [Dicoding](https://www.dicoding.com).<br>
+I am a Full-Stack Developer who is currently studying S1 at Pamulang University.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Github](github.com/Dxyy07) ku ya.
+I also have experience studying at several Bootcamps including [Dicoding](https://www.dicoding.com).<br>
+
+If you are interested in getting to know me, please follow my  [Github](github.com/Dxyy07) Account.
 
 <p align="left">
 <a href="https://github.com/Dxyy07">
