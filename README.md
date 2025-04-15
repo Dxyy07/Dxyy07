@@ -4,7 +4,7 @@ My name is **M. Septian Adi Cahya.** <br>
 
 I am a **Front End Dev**, Studying Informatics Engineering At [Pamulang University](https://unpam.ac.id/).<br>
 
-I also have experience studying at several Bootcamps including [Dicoding](https://www.dicoding.com).<br>
+I also have experience at several Bootcamps including [Dicoding](https://www.dicoding.com).<br>
 
 If you are interested in getting to know me, please follow my  [Github](github.com/Dxyy07) Account.
 
