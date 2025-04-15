@@ -2,7 +2,7 @@
 
 My name is **M. Septian Adi Cahya.** <br>
 
-I am a **Web Developer** who is studying at [Dicoding](https://www.dicoding.com/).<br>
+I am a **Web Developer** who is studying at [Pamulang University](https://unpam.ac.id/).<br>
 
 I also have experience studying at several Bootcamps including [Dicoding](https://www.dicoding.com).<br>
 
