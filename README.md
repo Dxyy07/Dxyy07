@@ -4,9 +4,6 @@ My name is **M. Septian Adi Cahya.** <br>
 
 I am a **Web Developer** who is studying at [Dicoding](https://www.dicoding.com/).<br>
 
-
-I am a Full-Stack Developer who is currently studying S1 at Pamulang University.<br>
-
 I also have experience studying at several Bootcamps including [Dicoding](https://www.dicoding.com).<br>
 
 If you are interested in getting to know me, please follow my  [Github](github.com/Dxyy07) Account.
